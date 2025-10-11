@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Education Information</title>
+</head>
+<body>
+    <table border="2">
+        <thead>
+            <tr>
+                <th>Course</th>
+                <th>Board/University</th>
+                <th>Education information</th>
+                <th>Year of pass</th>
+                <th>% of Marks</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>MCA</td>
+                <td>Andhra university</td>
+                <td>Dr.B.VRaju institute of Computer Education,Bhimavaram</td>
+                <td>2013</td>
+                <td>8.12(CGPA)</td>
+            </tr>
+            <tr>
+                <td>DEGREE</td>
+                <td>Andhra university</td>
+                <td>Dr.C.S.N PG & DEGREE College,Bhimavaram</td>
+                <td>2010</td>
+                <td>70%</td>
+            </tr>
+            <tr>
+                <td>INTREMEDIATE</td>
+                <td>Board of Intermediate</td>
+                <td>Sri Chaitanya Junior College,Bhimavaram</td>
+                <td>2007</td>
+                <td>67%</td>
+            </tr>
+            <tr>
+                <td>SSC</td>
+                <td>Board of Secondary Education</td>
+                <td>D.N.R.E.M.H School,Bhimavaram</td>
+                <td>2005</td>
+                <td>61%</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
