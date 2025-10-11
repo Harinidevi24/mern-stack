@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Description List</title>
+</head>
+<body>
+    <dl>
+        <dt>B.com CA</dt>
+        <dd>The B.Com (Computer Applications) department in NMSSVN College teaches students about commerce and computers. 
+            It helps them learn subjects like accounting, business, and computer skills such as MS Office, Tally, and programming. 
+            This course is useful for jobs in banks, offices, and IT fields.
+        </dd>
+    </dl>
+    <dl>
+        <dt>M.com</dt>
+        <dd>The M.Com (Master of Commerce) course gives advanced knowledge in commerce, finance, and management. 
+            Students study topics like business law, marketing, research, and accounting. 
+            It helps them to become professionals, teachers, or business people.
+        </dd>
+    </dl>
+</body>
+</html>
