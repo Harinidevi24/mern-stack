@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>create table</title>
+</head>
+<body>
+    <table border="1" cellspacing="0" cellpadding="10" align="center" bgcolor="lightgreen" >
+        <tr>
+            <td></td>
+            <td>
+                <marquee behaviour="alternate" direction="up" width="120" height="120">
+                    <i>Harini</i>
+                </marquee>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><marquee behaviour="alternate" direction="left" width="120" height="120">
+                    <i>Harini</i>
+                </marquee>
+            </td>
+            <td><img src="assests/cartoongirl.jpeg" width="120" height="120"></td>
+            <td><marquee behaviour="alternate" direction="right" width="120" height="120">
+                    <i>Harini</i>
+                </marquee>
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>
+              <marquee behaviour="scroll" direction="down" width="120" height="120">
+                <i>Harini</i>
+            </marquee>   
+            </td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
