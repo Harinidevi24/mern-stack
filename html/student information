@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>student information</title>
+    <body>
+    <table border="2">
+        <thead>
+            <tr>
+                <th>name</th>
+                <th>mail</th>
+                <th>mobile</th>
+                <th>address</th>
+                <th>city</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Harini</td>
+                <td>harini@mail.com</td>
+                <td>8893399393</td>
+                <td>xxxxx</td>
+                <td>Madurai</td>
+            </tr>
+            <tr>
+                <td>Devi</td>
+                <td>devi@mail.com</td>
+                <td>9583857388</td>
+                <td>yyyyy</td>
+                <td>Madurai</td>
+            </tr>
+            <tr>
+                <td>Rathi</td>
+                <td>rathi@mail.com</td>
+                <td>8797357393</td>
+                <td>zzzzz</td>
+                <td>Madurai</td>
+            </tr>
+        </tbody>
+    </table>
+</head>
+</body>
+</html>
